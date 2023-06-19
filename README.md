@@ -1,6 +1,7 @@
 # Twitter_Scraping_
 
-![Twitter-scraping](https://github.com/Akash-Chandrashekar24/Twitter_Scraping_/assets/121113381/bd1ec6ca-88a0-4972-ace7-7330f265792c)
+![Twitter-scraping](https://github.com/Akash-Chandrashekar24/Twitter_Scraping/assets/121113381/119d48ca-1dd0-45cb-b1c5-7fdabc9a27b1)
+
 
 # What is Twitter Scraping?
   Scraping is a technique to get information from Social Network sites. Scraping Twitter can yield many insights into sentiments, opinions and social media trends. Analysing tweets, shares, likes, URLs and interests is a powerful way to derive insight into public conversations.
